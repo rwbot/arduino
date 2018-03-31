@@ -1,4 +1,11 @@
 /***
+ * helpers
+ * helper methods for using two motors with a DFRobot Romeo arduino
+ * @rwbot
+ * v1.5
+ */
+
+/***
  * This creates an easy way to set the speed of both motors
  * We assign the name 's' to be our integer input speed for the function
  * Instead of digitalWrite(), we'll use analogWrite()

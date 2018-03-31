@@ -1,5 +1,4 @@
 void test1(){
-  
   // Setting the speed pin to be HIGH 
   // In HIGH, the speed pin receives +5V, and is able can move
   digitalWrite(speedL, HIGH);

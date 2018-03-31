@@ -2,7 +2,7 @@
  * twoMotorIntro
  * Tutorial on using two motors with a DFRobot Romeo arduino
  * @rwbot
- * v1.1
+ * v1.5
  */
  
 //Function    Direction   Speed (PWM)
